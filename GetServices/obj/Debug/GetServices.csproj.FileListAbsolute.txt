@@ -1,0 +1,8 @@
+C:\Users\tejj\Downloads\RaviTeja_A5\WebApp\GetServices\bin\GetServices.dll.config
+C:\Users\tejj\Downloads\RaviTeja_A5\WebApp\GetServices\bin\GetServices.dll
+C:\Users\tejj\Downloads\RaviTeja_A5\WebApp\GetServices\bin\GetServices.pdb
+C:\Users\tejj\Downloads\RaviTeja_A5\WebApp\GetServices\obj\Debug\GetServices.dll
+C:\Users\tejj\Downloads\RaviTeja_A5\WebApp\GetServices\obj\Debug\GetServices.pdb
+C:\Users\tejj\Downloads\RaviTeja_A5\WebApp\GetServices\obj\Debug\GetServices.csprojResolveAssemblyReference.cache
+C:\Users\tejj\Downloads\RaviTeja_A5\WebApp\GetServices\bin\Newtonsoft.Json.dll
+C:\Users\tejj\Downloads\RaviTeja_A5\WebApp\GetServices\bin\Newtonsoft.Json.xml
